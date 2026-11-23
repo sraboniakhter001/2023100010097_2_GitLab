@@ -17,3 +17,8 @@ p {
   padding: 16px;
   background-color: #ffffff;
 }
+
+.card h2 {
+  margin-top: 0;
+  font-size: 20px;
+}
